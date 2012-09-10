@@ -3,6 +3,8 @@
 
 (custom-theme-set-faces
  'obsidian
+ '(lazy-highlight ((t (:background "#860a0a" :foreground "#fff" :bold t))))
+ '(isearch ((t (:background "#cd3333" :foreground "#fff" :bold t))))
  '(fringe ((t (:background "#1a1a1a"))))
  '(cursor ((t (:background "#eee"))))
  '(default ((t (:background "#222" :foreground "#eee"))))
